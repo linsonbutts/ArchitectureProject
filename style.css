@@ -1,0 +1,17 @@
+body{
+   background-color: rgba(127, 255, 212, 0.37);
+}
+
+.buttonPosition {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+  }
+
+  .logo{
+    width: 250px;
+    height: 150px;
+    float: right;
+    border-radius: 50%;
+  }
