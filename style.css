@@ -4,6 +4,10 @@ body{
 ul, li{
   list-style-type: none;
 }
+.collapse{
+  display: inline-block;
+  text-align: center;
+}
 h1{
   margin: auto;
   margin-left: auto;
