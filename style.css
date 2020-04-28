@@ -20,7 +20,7 @@ h1{
 .patientImg{
   width: 300px;
   height: 250px;
-  border-radius: 20px;
+  border-radius: 50%;
   display: flex;
   justify-content: center;
   align-items: center;
